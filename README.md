@@ -17,7 +17,7 @@ The Hospital Management System is a comprehensive software solution designed to 
 
 - Backend: Python, Django Framework
 - Frontend: HTML/CSS, JavaScript
-- Database: MySQL
+- Database: MongoDB
 - Other Tools: Git for version control, Docker for containerization.
 
 **Contributing**
